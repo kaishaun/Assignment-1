@@ -1,0 +1,20 @@
+PS C:\Users\kaish> cd .\softdev1\
+PS C:\Users\kaish\softdev1> cd .\unit01\
+PS C:\Users\kaish\softdev1\unit01> notepad file01.txt
+PS C:\Users\kaish\softdev1\unit01> cp .\file01.txt file2.txt
+PS C:\Users\kaish\softdev1\unit01> mkdir assignment1
+
+PS C:\Users\kaish\softdev1\unit01> cd assignment1
+PS C:\Users\kaish\softdev1\unit01\assignment1> mkdir kaishaun
+C:\Users\kaish\softdev1\unit01\assignment1> mv file2.txt .\kaishaun\
+S C:\Users\kaish\softdev1\unit01\assignment1> cd .\kaishaun\
+PS C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> mv file2.txt
+ C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> mv file2.txt
+ PS C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> mv file.txt kaishaun
+ C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> notepad file2.txt
+PS C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> mv .\file2.txt
+PS C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> cd unit01
+C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> cd unit01
+C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> mkdir unit01
+C:\Users\kaish\softdev1\unit01\assignment1\kaishaun> cd .\unit01\
+PS C:\Users\kaish\softdev1\unit01\assignment1\kaishaun\unit01> rm assignment1
